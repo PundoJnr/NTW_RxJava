@@ -6,9 +6,10 @@ import android.widget.TextView;
 
 import org.w3c.dom.Text;
 
-import java.util.function.Consumer;
+
 
 import io.reactivex.Observable;
+import io.reactivex.functions.Consumer;
 
 public class MainActivity extends AppCompatActivity {
     TextView text;
